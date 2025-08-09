@@ -98,6 +98,14 @@ section.keyboard > button {
   cursor: pointer;
 }
 
+section.keyboard > button.correct {
+  background-color: #10a95b;
+}
+
+section.keyboard > button.wrong {
+  background-color: #ec5d49;
+}
+
 button.new-game {
   background-color: #11b5e5;
   border: 1px solid #d7d7d7;
