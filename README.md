@@ -1,12 +1,6 @@
-# React + Vite
+🕹 Guess the Word… or Lose a Language!
+Welcome to the ultimate coding doomsday challenge. You have 8 tries to guess the secret word. Each wrong guess doesn’t just cost you a life, it wipes one programming language off the face of the Earth!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Save JavaScript, rescue Python, protect Rust… but beware: if you fail, only Assembly will remain. And no one wants to live in that timeline.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+So sharpen your mind, channel your inner code savior, and guess wisely, the future of programming depends on you! 💻⚡
