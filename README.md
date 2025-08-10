@@ -5,6 +5,6 @@ Every wrong guess deletes a programming language from existence.
 Will you save Python, JavaScript, and Rust?
 Or will you doom us all to a world where only Assembly survives? 🫠
 
-Play it here: biswas-souvik.github.io/Assembly
+Play it here: [Save the Languages](https://biswas-souvik.github.io/Assembly/)
 
 ⚠️ One wrong letter at a time… the programming world crumble
